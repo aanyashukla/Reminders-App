@@ -1,0 +1,5 @@
+- The Reminders App is a simple Android application. 
+- Users can edit and save reminders.
+- It consists of two fields: Passwords and General Info.
+- User-friendly interface with a clean design.
+- Learnt about another new concept in Android called ViewPagers.
